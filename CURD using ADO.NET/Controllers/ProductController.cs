@@ -78,6 +78,7 @@ namespace CURD_using_ADO.NET.Controllers
             
             }
             catch
+
             {
                 return View();
             }
